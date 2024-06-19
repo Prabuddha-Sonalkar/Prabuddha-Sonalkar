@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabuddha Sonalkar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A Web Developer passionate about creating interactive applications and web experiences, specializing in React and React Native.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
