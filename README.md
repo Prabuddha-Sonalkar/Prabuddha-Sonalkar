@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabuddha-sonalkar&label=Profile%20views&color=0e75b6&style=flat" alt="prabuddha-sonalkar" /> </p>
 
 - 📫 How to reach me **sonalkarprabuddha5565@gmail.com**
+- <a href="https://www.linkedin.com/in/prabuddha-sonalkar" target="blank"><img src="https://img.shields.io/linkedin/follow/PrabuddhaSonalkar?logo=linkedin&style=for-the-badge" alt="PrabuddhaSonalkar" /></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
